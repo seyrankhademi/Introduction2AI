@@ -1,5 +1,5 @@
 
-![alt text](https://drive.google.com/file/d/1a3pTgJ3zMt0sdt20Y_nUE4U1NftStGkp/view?usp=sharing)
+![iStock-865884672](https://user-images.githubusercontent.com/26411792/95655741-aec9bd00-0b09-11eb-8654-45c8fde2035a.jpg)
 This repository includes an Ipython notebook running on Google Colaboratory platform as supplementary material for the course "Introduction to AI".
 
 ----
